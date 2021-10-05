@@ -1,2 +1,2 @@
-Robomind
- Merupakan script yang digunakan untuk menjalankan RoboMind
+ScriptRoboMind
+Merupakan script yang digunakan untuk menjalankan RoboMind
