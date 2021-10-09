@@ -1,5 +1,5 @@
 # Robomind
-Script ini dibuat untuk menjalankan perintah dasar Robomind
+# Script ini dibuat untuk menjalankan perintah dasar Robomind
 - NAMA : Nabil Makarim
 - NIM  : K3521056
 
