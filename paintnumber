@@ -1,0 +1,8 @@
+paintWhite()
+west(1)
+north(2)
+east(2)
+south(4)
+west(2)
+north(2)
+east(2)
